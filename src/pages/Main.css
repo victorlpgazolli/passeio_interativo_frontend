@@ -1,0 +1,27 @@
+.bottomButtons{
+    font-weight: 500;
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    text-align: center;
+    border: 1px solid #00000020;
+    height: 48px;
+    font-size: 16px;
+    color: #fff;
+    background:#888;
+    font-weight: bold;
+    cursor: pointer;
+}
+.bottomButtons:hover{
+    background:#88888890;
+}
+.right{
+    right: 0;
+}
+.left{
+    left: 0;
+}
+.main-container{
+    height: 100%;
+    display: flex;
+}
